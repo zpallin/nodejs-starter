@@ -1,7 +1,7 @@
 {
-  "name": "zpallin_docker_test",
+  "name": "nodejs-starter",
   "version": "1.0.0",
-  "description": "Zpallin Nodejs Test on Docker",
+  "description": "Zpallin Nodejs Starter",
   "author": "Zachary Pallin <zpallin@gmail.com>",
   "main": "server.js",
   "scripts": {
